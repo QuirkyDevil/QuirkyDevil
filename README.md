@@ -25,7 +25,8 @@ Quirky =
 ## Stats
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=QuirkyDevil&theme=dracula"></div>
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=QuirkyDevil.QuirkyDevil)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/github/followers/QuirkyDevil?label=Follow&style=social)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=QuirkyDevil.QuirkyDevil">
+<img src="https://img.shields.io/github/followers/QuirkyDevil?label=Follow&style=social">
 
 ## Facts
 ⚡ Fun fact: _More people are killed annually by donkeys than airplane crashes_.✨
