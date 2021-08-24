@@ -29,9 +29,9 @@ Quirky =
 <img src="https://img.shields.io/github/followers/QuirkyDevil?label=Follow&style=social">
 
 ## Facts
-⚡ Fun fact: _More people are killed annually by donkeys than airplane crashes_.✨
-🎵 Music love: The FatRat, Alan Walker
-😐 Having a life: Yes
+⚡ Fun fact: _More people are killed annually by donkeys than airplane crashes_.✨<br/> 
+🎵 Music love: The FatRat, Alan Walker<br/> 
+😐 Having a life: Yes<br/> 
 
 ## Magic Updates ❄
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyDevil&theme=tokyonight&hide=batchfile">
