@@ -19,7 +19,7 @@ Quirky =
        Contributed: 0 (so proud)
     },
     Stars: 0,
-    FavouriteThings: ( 'quirky', [vada-pav", "Minecraft", "Code", "Game dev", "Story and poem writing"])
+    FavouriteThings: ( 'quirky', ["vada-pav", "Minecraft", "Code", "Game dev", "Story and poem writing"])
 };
 ```
 ## Stats
@@ -30,7 +30,8 @@ Quirky =
 
 ## Facts
 ⚡ Fun fact: _More people are killed annually by donkeys than airplane crashes_.✨
-🎵 Music love: The FatRat, Alan Walker,  
+🎵 Music love: The FatRat, Alan Walker
+😐 Having a life: Yes
 
 ## Magic Updates ❄
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyDevil&theme=tokyonight&hide=batchfile">
