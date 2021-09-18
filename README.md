@@ -7,11 +7,11 @@ from array import *
 
 Quirky = 
     {
-    Age: not yet counted 🤷‍♂️,
+    Age: 17, #maybe
     Description: "Weirdo",
     FavouriteLanguage: "Python",
     Fav_Games: Minecraft,
-    Writes_a_Book: Yes,
+    Writes_a_Book: True,
     writes_a_poem: True,
     learns_anything: Game_dev
     Repositories: {
