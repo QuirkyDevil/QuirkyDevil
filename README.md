@@ -1,8 +1,8 @@
 # [![Quirky Devil](https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/main/img/banner1.png)](https://website.quirkydevil.repl.co/)
 
-<h1 align="center">Who am I?</h1>
-<p align="center">Hallo I'm Soham a Computer Science student at MIT. Mainly using Python, C, C++ and javascript to code. (learning java and pygames) </p>
-<p>I spend most time updating the Discord Bots of Power Aliiance (Alex, Kath, Rose, Owen, Amy and Aiden)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Quirky+Devil!;Hi+there%2C+I'm+Soham+❤.;Hi+there%2C+you+can+call+me+Lemon.;Hi+there%2C+I'm+a+content+creator.;Hi+there%2C+I'm+a+software+engineer.;Hi+there%2C+I'm+a+musician.)]
+<p>I'm Computer Science student at MIT. Mainly using Python, C, C++ and javascript to code. (learning java and pygames) <br>
+I spend most time updating the Discord Bots of Power Aliiance (Alex, Kath, Rose, Owen, Amy and Aiden)</p>
 
 ```py 
 from Quirky import *
@@ -16,14 +16,14 @@ Quirky =
     Fav_Games: Minecraft,
     Writes_a_Book: True,
     writes_a_poem: True,
-    projects: "",
-    working_project: RPG game,
+    projects: "Alex Boat",
+    working_project: 'RPG Game',
     
     Repositories: {
        Created: 5,
        Contributed: 0 (so proud)
     },
-    Just_Favourite: ( 'quirky', ["vada-pav", "Minecraft", "Code", "Pixel Art", "Poems"])
+    Just_Favourite: ( 'quirky', ["vada-pav", "Minecraft", "Code", "Pixel Art", "Story Writing"])
 };
 ```
 ## Magic Updates ❄
