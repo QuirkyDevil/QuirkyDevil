@@ -1,3 +1,5 @@
+# [![Quirky Devil](https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/main/img/banner1.png)](https://website.quirkydevil.repl.co/)
+
 <h1 align="center">Who am I?</h1>
 <p align="center">Hallo I'm Soham a Computer Student at MIT-WPU using Python and javascript mainly to code (sometimes java) </p>
 <p>I spend most time updating the Bots of Power Aliiance which include Alex, Kath, Rose, Owen, Amy and Aiden. (All Private) </p>
