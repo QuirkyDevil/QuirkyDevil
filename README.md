@@ -28,6 +28,7 @@ Quirky =
 ```
 ## Magic Updates ❄
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyDevil&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyDevil&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=QuirkyDevil&theme=dracula"></div>
