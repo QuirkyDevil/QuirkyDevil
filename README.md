@@ -26,6 +26,8 @@ Quirky =
     Just_Favourite: ( 'quirky', ["vada-pav", "Minecraft", "Code", "Pixel Art", "Story Writing"])
 };
 ```
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/479650423243014155)
+[![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevilQuirky)
 ## Magic Updates ❄
 
 
