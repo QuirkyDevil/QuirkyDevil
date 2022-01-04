@@ -1,6 +1,6 @@
 # [![Quirky Devil](https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/main/img/banner1.png)](https://website.quirkydevil.repl.co/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Quirky+Devil!;Hi+there%2C+I'm+Soham+❤.;Hi+there%2C+you+can+call+me+Lemon.;Hi+there%2C+I'm+a+content+creator.;Hi+there%2C+I'm+a+software+engineer.;Hi+there%2C+I'm+a+musician.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Quirky+Devil!;Hi+there%2C+I'm+Soham+Rupaye+❤.;Hi+there%2C+you+can+call+me+Quirky.;Hi+there%2C+I'm+a+Coder+and+Writer.;Hi+there%2C+I'm+a+computer+science+student.;Hi+there%2C+I'm+a+musician+too.)
 <p>I'm Computer Science student at MIT. Mainly using Python, C, C++ and javascript to code. (learning java and pygames) <br>
 I spend most time updating the Discord Bots of Power Aliiance (Alex, Kath, Rose, Owen, Amy and Aiden)</p>
 
