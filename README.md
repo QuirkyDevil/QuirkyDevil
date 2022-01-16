@@ -10,7 +10,7 @@ from array import *
 
 Quirky = 
     {
-    Age: 17,
+    Age: 18,
     Description: "Weirdo",
     FavouriteLanguage: "Python",
     Fav_Games: Minecraft,
@@ -20,8 +20,8 @@ Quirky =
     working_project: 'RPG Game',
     
     Repositories: {
-       Created: 5,
-       Contributed: 0 (so proud)
+       Created: 16,
+       Contributed: 1
     },
     Just_Favourite: ( 'quirky', ["vada-pav", "Minecraft", "Code", "Pixel Art", "Story Writing"])
 };
