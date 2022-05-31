@@ -1,7 +1,7 @@
 # [![Quirky Devil](https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/main/img/banner1.png)](https://website.quirkydevil.repl.co/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Quirky+Devil!;Hi+there%2C+I'm+Soham+Rupaye+❤.;Hi+there%2C+you+can+call+me+Quirky.;Hi+there%2C+I'm+a+Coder+and+Writer.;Hi+there%2C+I'm+a+computer+science+student.;Hi+there%2C+I'm+a+musician+too.)
-<p>I'm Computer Science student at MIT. Mainly using Python, C, C++ and javascript to code. (learning java and pygames) <br>
+<p>I'm Computer Science student at MIT. Mainly using Python, java and javascript to code. <br>
 I spend most time updating the Discord Bots of Power Aliiance (Alex, Kath, Rose, Owen, Amy and Aiden)</p>
 
 ```py 
@@ -15,15 +15,15 @@ Quirky =
     FavouriteLanguage: "Python",
     Fav_Games: Minecraft,
     Writes_a_Book: True,
-    writes_a_poem: True,
-    projects: "Alex Boat",
-    working_project: 'RPG Game',
+    Writes_a_poem: True,
+    Active_projects: "Alex Boat",
+    Planned_project: 'Aiden ',
     
     Repositories: {
-       Created: 16,
+       Created: 12,
        Contributed: 1
     },
-    Just_Favourite: ( 'quirky', ["vada-pav", "Minecraft", "Code", "Pixel Art", "Story Writing"])
+    Just_Favourite: ( 'quirky', ["Games", "Code", "Pixel Art", "Story Writing"])
 };
 ```
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/479650423243014155)
