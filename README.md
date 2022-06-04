@@ -5,7 +5,7 @@
 I spend most time updating the Discord Bots of Power Aliiance (Alex, Kath, Rose, Owen, Amy and Aiden)</p>
 
 
-SID IS NOOB
+
 ```py 
 from Quirky import *
 from array import *
