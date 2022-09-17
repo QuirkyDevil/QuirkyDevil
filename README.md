@@ -16,7 +16,7 @@
 
 ---
 
-Hey there, I am Quirky. I am a coder and also a writer in Python. I am mostly concentrating on Discord Bots for now. As more project ideas pop up in my mind, I will continue. You can check out my [**website**](https://quirkyspace.me/). Feel free to contact me via Discord. I guess that's enough intro. I don't know how to introduce lmao. Anyways, peace out
+Hey there, I am Quirky. I am a coder and also a writer in Python. I am mostly concentrating on Discord Bots for now. As more project ideas pop up in my mind, I will continue. Feel free to contact me via Discord. I guess that's enough intro. I don't know how to introduce lmao. Anyways, peace out
 ---
 
 ### Contact Me:
