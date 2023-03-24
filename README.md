@@ -1,12 +1,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&height=180&section=header&text=QUIRKY%20DEVIL&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bcdec&size=35&center=true&vCenter=true&width=1000&lines=I+AM+QUIRKY+DEVIL;I+AM+A+WRITER+AS+WELL;HAVING+EXISTENTIAL+CRISIS;18+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bcdec&size=35&center=true&vCenter=true&width=1000&lines=I+AM+QUIRKY+DEVIL;HAVING+EXISTENTIAL+CRISIS;18+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
  
- <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=QuirkyDevil&theme=react-dark&hide_border=true&area=true" />
-
-</div> 
 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=f9a7dd&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
