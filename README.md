@@ -12,17 +12,13 @@
 
 ---
 
-Hey there, I am Quirky. I am a coder and also a writer in Python. I am mostly concentrating on Discord Bots for now. As more project ideas pop up in my mind, I will continue. Feel free to contact me via Discord. I guess that's enough intro. I don't know how to introduce lmao. Anyways, peace out
+Hey there, I am Quirky. I am a Full Stack developer. I am mostly concentrating on Apps, Discord Bots and AI projects for now. As more project ideas pop up in my mind, I will continue. Feel free to contact me via Discord/Linkedin. I guess that's enough intro. Anyways, peace out! 
 ---
 
 ### Contact Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/479650423243014155)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://twitter.com/DevilQuirky](https://www.linkedin.com/in/soham-rupaye-9aa06b264/))
 [![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevilQuirky)
-
-### Some More Images:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&height=120&section=footer"/>
 
