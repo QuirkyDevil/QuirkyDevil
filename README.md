@@ -1,25 +1,74 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&height=180&section=header&text=QUIRKY%20DEVIL&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bcdec&size=35&center=true&vCenter=true&width=1000&lines=I+AM+QUIRKY+DEVIL;HAVING+EXISTENTIAL+CRISIS;20+YEAR+OLD+STUDENT)](https://git.io/typing-svg)
- 
-
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=f9a7dd&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyDevil&layout=compact&hide_border=true&title_color=5bcdec&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=180&section=header&text=Hello Visitor!!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"  />
 </div>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=QuirkyDevil&theme=dracula&no-frame=true&no-bg=true&column=-1"></div>
 
----
+###
 
-Hey there, I am Quirky. I am a Full Stack developer. I am mostly concentrating on Apps, Discord Bots and AI projects for now. As more project ideas pop up in my mind, I will continue. Feel free to contact me via Discord/Linkedin. I guess that's enough intro. Anyways, peace out! 
----
+<h2 align="left">Hi! I'm Soham Rupaye, a Full stack developer 👋🏼:</h2>
 
-### Contact Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/479650423243014155)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://twitter.com/DevilQuirky](https://www.linkedin.com/in/soham-rupaye-9aa06b264/))
-[![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevilQuirky)
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&height=120&section=footer"/>
+<h4 align="left">Usually project ideas pop up in my mind, I will complete them. Feel free to contact me via Discord/Linkedin.<br><br>>> I am working on my webpage.<br>>> Completing 2 Apps in react native.<br>>> Developing and deploying APIs for a company.</h4>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=QuirkyDevil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuirkyDevil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/479650423243014155" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/soham-rupaye/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SohamRupaye" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/QuirkyDevil/QuirkyDevil/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="130" src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"  />
+</div>
+
+###
