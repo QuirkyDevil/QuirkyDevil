@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Usually project ideas pop up in my mind, I will complete them. Feel free to contact me via Discord/Linkedin.<br><br>>> I am working on my webpage.<br>>> Completing 2 Apps in react native.<br>>> Developing and deploying APIs for a company.</h4>
+<h4 align="left">Usually project ideas pop up in my mind, I will complete them. Feel free to contact me via Discord/Linkedin.<br><br>>> I am working on my webpage. (priority)<br>>> Building visually stunning apps in react native.<br>>> Developing and deploying APIs for an organization <br>>> Making webistes and landing pages for my college.</h4>
 
 ###
 
